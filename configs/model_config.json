@@ -1,0 +1,13 @@
+{
+  "provider": "ollama",
+  "base_url": "http://127.0.0.1:11434",
+  "model": "qwen3:8b",
+  "temperature": 0.0,
+  "timeout_seconds": 180,
+  "disable_thinking": true,
+  "num_ctx": 8192,
+  "stage1_chunk_chars": 4000,
+  "stage1_chunk_num_predict": 2048,
+  "stage1_structure_num_predict": 1536,
+  "stage2_num_predict": 2048
+}

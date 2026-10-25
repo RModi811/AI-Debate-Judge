@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "dimensions": {
+    "reasoning": 0.25,
+    "clash": 0.20,
+    "weighing": 0.20,
+    "clarity": 0.15,
+    "strategy": 0.10,
+    "persuasion": 0.10
+  },
+  "scale": "1-10",
+  "persuasion_constraint": "Persuasion may resolve a substantive tie but must not reward charm, confidence, volume, pace, fluency, accent, dialect, vocabulary, or polish."
+}
